@@ -1,0 +1,14 @@
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.csprojAssemblyReference.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.deps.json
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.runtimeconfig.json
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.runtimeconfig.dev.json
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.dll
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.pdb
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.RazorAssemblyInfo.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.RazorAssemblyInfo.cs
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.AssemblyInfoInputs.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.AssemblyInfo.cs
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.RazorTargetAssemblyInfo.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.dll
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.pdb

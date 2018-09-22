@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Администратор.PNB2\\.nuget\\packages\\": {},
+    "C:\\Users\\Misha\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\StorePhoneAccessory\\StorePhoneAccessory\\StorePhoneAccessory.csproj",
+      "projectUniqueName": "C:\\Users\\Misha\\Source\\Repos\\StorePhoneAccessory\\StorePhoneAccessory\\StorePhoneAccessory.csproj",
       "projectName": "StorePhoneAccessory",
-      "projectPath": "C:\\Temp\\StorePhoneAccessory\\StorePhoneAccessory\\StorePhoneAccessory.csproj",
-      "packagesPath": "C:\\Users\\Администратор.PNB2\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\StorePhoneAccessory\\StorePhoneAccessory\\obj\\",
+      "projectPath": "C:\\Users\\Misha\\Source\\Repos\\StorePhoneAccessory\\StorePhoneAccessory\\StorePhoneAccessory.csproj",
+      "packagesPath": "C:\\Users\\Misha\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Misha\\Source\\Repos\\StorePhoneAccessory\\StorePhoneAccessory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Администратор.PNB2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Misha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
