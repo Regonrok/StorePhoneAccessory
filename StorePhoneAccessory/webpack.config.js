@@ -1,6 +1,6 @@
 ﻿var path = require('path');
 var webpack = require('webpack');
-var UnglifyJSPlugin = require('uglifyjs-webpack-plugin');
+var UglifyJSPlugin = require('uglifyjs-webpack-plugin'); // плагин минимизации
 
 module.exports = {
     entry: {
@@ -8,15 +8,15 @@ module.exports = {
         'app': './ClientApp/main.ts'
     },
     output: {
-        path: path.resolve(__dirname, './wwwroot/dist'),
+        path: path.resolve(__dirname, './wwwroot/dist'),     // путь к каталогу выходных файлов - папка public
         publicPath: '/dist/',
-        filename: "[name].js"
+        filename: "[name].js"       // название создаваемого файла
     },
     resolve: {
         extensions: ['.ts', '.js']
     },
     module: {
-        rules: [ // загрузчик для ts
+        rules: [   //загрузчик для ts
             {
                 test: /\.ts$/, // определяем тип файлов
                 use: [
