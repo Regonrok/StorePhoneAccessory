@@ -1,4 +1,3 @@
-C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.csprojAssemblyReference.cache
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.deps.json
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.runtimeconfig.json
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.runtimeconfig.dev.json
