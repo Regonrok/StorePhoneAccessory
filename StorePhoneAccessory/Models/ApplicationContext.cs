@@ -13,6 +13,13 @@ namespace StorePhoneAccessory.Models
 
         }
 
+        public DbSet<BasketField> BasketFields { get; set; }
+        public DbSet<Order> Orders { get; set; }
+        public DbSet<Person> People { get; set; }
+        public DbSet<Photo> Photos { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Role> Roles { get; set; }
+        public DbSet<SubtypeProduct> SubtypeProducts { get; set; }
+        public DbSet<TypeProduct> TypeProducts { get; set; }
     }
 }
