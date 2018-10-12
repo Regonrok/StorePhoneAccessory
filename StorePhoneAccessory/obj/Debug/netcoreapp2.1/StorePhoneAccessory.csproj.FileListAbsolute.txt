@@ -11,3 +11,7 @@ C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\ne
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.RazorTargetAssemblyInfo.cache
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.dll
 C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.pdb
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.csprojAssemblyReference.cache
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.Views.dll
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\bin\Debug\netcoreapp2.1\StorePhoneAccessory.Views.pdb
+C:\Users\Misha\Source\Repos\StorePhoneAccessory\StorePhoneAccessory\obj\Debug\netcoreapp2.1\StorePhoneAccessory.csproj.CopyComplete
